@@ -1,0 +1,54 @@
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\payment.exe
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\payment.deps.json
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\payment.runtimeconfig.json
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\payment.runtimeconfig.dev.json
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\payment.dll
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\payment.pdb
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DineshDubey\newp\payment\payment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.csproj.AssemblyReference.cache
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.AssemblyInfoInputs.cache
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.AssemblyInfo.cs
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.csproj.CoreCompileInputs.cache
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.MvcApplicationPartsAssemblyInfo.cs
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.MvcApplicationPartsAssemblyInfo.cache
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\staticwebassets\payment.StaticWebAssets.Manifest.cache
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\staticwebassets\payment.StaticWebAssets.xml
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\scopedcss\bundle\payment.styles.css
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.RazorTargetAssemblyInfo.cache
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.csproj.CopyComplete
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.dll
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.pdb
+D:\DineshDubey\newp\payment\payment\obj\Debug\netcoreapp3.1\payment.genruntimeconfig.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\payment.exe
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\payment.deps.json
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\payment.runtimeconfig.json
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\payment.runtimeconfig.dev.json
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\payment.dll
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\payment.pdb
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashokpandey\Downloads\payment (3)\payment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.csproj.AssemblyReference.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.AssemblyInfoInputs.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.AssemblyInfo.cs
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.csproj.CoreCompileInputs.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\staticwebassets\payment.StaticWebAssets.Manifest.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\staticwebassets\payment.StaticWebAssets.xml
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\scopedcss\bundle\payment.styles.css
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.RazorTargetAssemblyInfo.cache
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.csproj.CopyComplete
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.dll
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.pdb
+C:\Users\ashokpandey\Downloads\payment (3)\payment\obj\Debug\netcoreapp3.1\payment.genruntimeconfig.cache
